@@ -3,7 +3,7 @@ magento 2 bulk export and import product extension
 
 Extension Installation
 1. Log out from Magento Admin panel if you are logged in
-2. Unpack the contents of the zip file purchased and VIA ftp and upload the app folder to your magento install root.
+2. Unpack the contents of the zip file and VIA ftp and upload the app folder to your magento install root.
 3. Log into Magento Admin Panel
 4. Clear cache using command php -f bin/magento cache:flush
 5. After uncompressing the product attributes import/export package, you should have one folder: app
